@@ -17,8 +17,8 @@ const locales = {
 };
 
 export default defineConfig({
-  site: "https://music-visualizations.github.io",
-  base: "/",
+  site: "https://soulnd-xinyin.github.io/music-visualizations/",
+  base: "/music-visualizations",
   integrations: [
     tailwind(),
     mdx(), 
